@@ -63,11 +63,8 @@ st.set_page_config(
 st.title("Modelo Predictivo de Ingresos")
 
 st.markdown(
-    """
-    Este aplicativo utiliza un modelo de **Gradient Boosting**
-    para estimar los ingresos de un trabajador a partir de sus
-    características sociodemográficas y laborales.
-    """
+    '<meta name="google" content="notranslate">',
+    unsafe_allow_html=True
 )
 
 st.markdown("---")
