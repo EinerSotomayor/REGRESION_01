@@ -62,14 +62,6 @@ st.set_page_config(
 
 st.title("Modelo Predictivo de Ingresos")
 
-st.markdown(
-    '<meta name="google" content="notranslate">',
-    unsafe_allow_html=True
-)
-
-st.markdown("---")
-
-
 # ============================================================
 # FORMULARIO
 # ============================================================
